@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+
+html {
+      background-color: #000000;
+      font-family: Tahoma;
+      }
+
+h1 {
+    color: white; 
+    font-size: 100px; 
+    text-align: center; 
+    margin: auto; 
+    margin-bottom: 0px;
+    padding: 50px;
+    padding-bottom: 0px;
+    }
+
+
+h2 {
+    color: white; 
+    font-size: 50px; 
+    text-align: center; 
+    margin: auto; 
+    margin-bottom: 0px;
+    padding: 50px;
+    padding-bottom: 0px;
+    }
+
+
+</style>
